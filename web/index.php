@@ -9,8 +9,8 @@
      <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins:wght@100;200;300;400;500;600;700&display=swap"
           rel="stylesheet">
      <link rel="stylesheet" href="src/style.css">
-     <title>Sammy (@Selfisxd)</title>
-     <link rel="icon" href="https://telegra.ph/file/fe2481b56a99e9d870a35.jpg" type="image/x-icon">
+     <title>PROJECT (@ProjectHubZ)</title>
+     <link rel="icon" href="https://telegra.ph/file/1fb82db0c47d0e8ede38d.jpg" type="image/x-icon">
 </head>
 
 <body id="body" class="dark">
@@ -25,7 +25,7 @@
           </div>
      </div>
      <div class="modal">
-          <img src="https://telegra.ph/file/fe2481b56a99e9d870a35.jpg" alt="">
+          <img src="https://telegra.ph/file/57da0540b56c769232ee2.jpg" alt="">
           <div class="close"></div>
      </div>
 
@@ -53,8 +53,8 @@
                                    <i class="fas fa-camera fa-2x"></i>
                               </div>
                          </div>
-                         <h3 class="name">Sammy</h3>
-                         <h3 class="sub-name">@Selfisxd</h3>
+                         <h3 class="name">PROJECT</h3>
+                         <h3 class="sub-name">@ProjectHubZ</h3>
                     </div>
                </div>
 
@@ -62,13 +62,13 @@
                     <div class="left">
                          <div class="about-container">
                               <h3 class="title">About</h3>
-                              <p class="text">Innexia Founder  | Python iz  💖| Groups owner </p>
+                              <p class="text">I love  | Python 💖| And Hacking </p>
                          </div>
                          <div class="icons-container">
                          <a href="https://github.com/TeamInnexia" class="icon">
                                    <i class="fab fa-github"></i>
                               </a>
-                              <a href="https://telegram.dog/selfisxd" class="icon">
+                              <a href="https://telegram.dog/projecthubz" class="icon">
                                    <i class="fab fa-telegram"></i>
                               </a>
                               <a href="                              https://www.youtube.com/channel/UCJEMDBgp_zYywtotOBrYJYw" class="icon">
