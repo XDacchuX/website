@@ -10,7 +10,7 @@
           rel="stylesheet">
      <link rel="stylesheet" href="src/style.css">
      <title>SAMMY (@useIes)</title>
-     <link rel="icon" href="https://telegra.ph/file/1fb82db0c47d0e8ede38d.jpg" type="image/x-icon">
+     <link rel="icon" href="https://telegra.ph/file/8e58f06b85c35b1932b8a.jpg" type="image/x-icon">
 </head>
 
 <body id="body" class="dark">
@@ -25,7 +25,7 @@
           </div>
      </div>
      <div class="modal">
-          <img src="https://telegra.ph/file/57da0540b56c769232ee2.jpg" alt="">
+          <img src="https://telegra.ph/file/46be66f3b2514e5cd017e.jpg" alt="">
           <div class="close"></div>
      </div>
 
