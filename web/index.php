@@ -9,7 +9,7 @@
      <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins:wght@100;200;300;400;500;600;700&display=swap"
           rel="stylesheet">
      <link rel="stylesheet" href="src/style.css">
-     <title>PROJECT (@ProjectHubZ)</title>
+     <title>SAMMY (@useIes)</title>
      <link rel="icon" href="https://telegra.ph/file/1fb82db0c47d0e8ede38d.jpg" type="image/x-icon">
 </head>
 
@@ -34,8 +34,8 @@
           <div class="card">
                <div class="sidebar" id="sidebar">
                     <ul>
-                         <li><a class="active" href="https://telegram.dog/selfisxd">Telegram</a></li>
-                         <li><a class="active" href="https://telegram.dog/innexiabot">Bots</a></li>
+                         <li><a class="active" href="https://telegram.dog/useIes">Telegram</a></li>
+                         <li><a class="active" href="https://telegram.dog/SiderzBot">Robot</a></li>
                     </ul>
                </div>
                <div class="header">
@@ -53,8 +53,8 @@
                                    <i class="fas fa-camera fa-2x"></i>
                               </div>
                          </div>
-                         <h3 class="name">PROJECT</h3>
-                         <h3 class="sub-name">@ProjectHubZ</h3>
+                         <h3 class="name">SAMMY</h3>
+                         <h3 class="sub-name">@SiderzBot</h3>
                     </div>
                </div>
 
@@ -62,13 +62,13 @@
                     <div class="left">
                          <div class="about-container">
                               <h3 class="title">About</h3>
-                              <p class="text">I love  | Python 💖| And Hacking </p>
+                              <p class="text">🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ Iɴɴᴇxɪᴀ Bᴏᴛ | 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ Pʏᴛʜᴏɴ Aɴᴅ Hᴀᴄᴋɪɴɢ| 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ Nᴏᴏʙ Cᴏᴅᴇʀ | ⚡ Fᴜɴ Fᴀᴄᴛ I Aᴍ Nᴏᴏʙ </p>
                          </div>
                          <div class="icons-container">
-                         <a href="https://github.com/TeamInnexia" class="icon">
+                         <a href="https://github.com/DarkCybers" class="icon">
                                    <i class="fab fa-github"></i>
                               </a>
-                              <a href="https://telegram.dog/projecthubz" class="icon">
+                              <a href="https://telegram.dog/SiderzBot" class="icon">
                                    <i class="fab fa-telegram"></i>
                               </a>
                               <a href="                              https://www.youtube.com/channel/UCJEMDBgp_zYywtotOBrYJYw" class="icon">
