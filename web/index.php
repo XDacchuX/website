@@ -10,7 +10,7 @@
           rel="stylesheet">
      <link rel="stylesheet" href="src/style.css">
      <title>SAMMY (@useIes)</title>
-     <link rel="icon" href="https://telegra.ph/file/8e58f06b85c35b1932b8a.jpg" type="image/x-icon">
+     <link rel="icon" href="https://telegra.ph/file/7919f9607c1fa5779e74a.jpg" type="image/x-icon">
 </head>
 
 <body id="body" class="dark">
@@ -25,7 +25,7 @@
           </div>
      </div>
      <div class="modal">
-          <img src="https://telegra.ph/file/46be66f3b2514e5cd017e.jpg" alt="">
+          <img src="https://telegra.ph/file/3c51ab371a8e348f0a0b2.jpg" alt="">
           <div class="close"></div>
      </div>
 
@@ -34,8 +34,8 @@
           <div class="card">
                <div class="sidebar" id="sidebar">
                     <ul>
-                         <li><a class="active" href="https://telegram.dog/useIes">Telegram</a></li>
-                         <li><a class="active" href="https://telegram.dog/SiderzBot">Robot</a></li>
+                         <li><a class="active" href="https://telegram.dog/TeamDeeCode">TeamDeeCode</a></li>
+                         <li><a class="active" href="https://telegram.dog/DeeCodeBots/32">Projects</a></li>
                     </ul>
                </div>
                <div class="header">
@@ -65,13 +65,13 @@
                               <p class="text">🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ Iɴɴᴇxɪᴀ Bᴏᴛ | 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ Pʏᴛʜᴏɴ Aɴᴅ Hᴀᴄᴋɪɴɢ| 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ Nᴏᴏʙ Cᴏᴅᴇʀ | ⚡ Fᴜɴ Fᴀᴄᴛ I Aᴍ Nᴏᴏʙ </p>
                          </div>
                          <div class="icons-container">
-                         <a href="https://github.com/DarkCybers" class="icon">
+                         <a href="https://github.com/TeamDeeCode" class="icon">
                                    <i class="fab fa-github"></i>
                               </a>
-                              <a href="https://telegram.dog/SiderzBot" class="icon">
+                              <a href="https://telegram.dog/Deecodebots" class="icon">
                                    <i class="fab fa-telegram"></i>
                               </a>
-                              <a href="                              https://www.youtube.com/channel/UCJEMDBgp_zYywtotOBrYJYw" class="icon">
+                              <a href="                              https://youtube.com/channel/UCJEMDBgp_zYywtotOBrYJYw" class="icon">
                                    <i class="fab fa-youtube"></i>
                               </a>
                          </div>
