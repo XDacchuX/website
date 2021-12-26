@@ -29,6 +29,7 @@ For more information about using PHP on Heroku, see these Dev Center articles:
 # CREDIT 💞
 
 ```
-SAMMY 
-SHUBH 
-```
+BrayDan
+BLAZE
+``` 
+
