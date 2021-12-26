@@ -44,7 +44,7 @@
                               <div class="center"></div>
                          </div>
                     </label>
-                    <a href="mailto:mrsammyxd@gmail.com" class="mail">
+                    <a href="mailto: braydanxd@gmail.com" class="mail">
                          <i class="far fa-envelope"></i>
                     </a>
                     <div class="main">
@@ -53,16 +53,17 @@
                                    <i class="fas fa-camera fa-2x"></i>
                               </div>
                          </div>
-                         <h3 class="name">SAMMY</h3>
-                         <h3 class="sub-name">@SiderzBot</h3>
+                         <h3 class="name">DeCoDe</h3>
+                         <h3 class="sub-name">@TeamDeeCoDe</h3>
                     </div>
                </div>
 
                <div class="content">
                     <div class="left">
                          <div class="about-container">
-                              <h3 class="title">About</h3>
-                              <p class="text">“Never allow the same bug to bite you twice”\n\n No one wants to put in hours of work on a project only\n to have it all go up in flames because of an unforeseen bug.\n But, if you're anything like me, bugs are unavoidable.\n Now, imagine if there were a way to avoid them entirely?\n\n Get the reliable help you need! TeamDeeCode does it\n all for you. We can fix any bug, even the rarest ones. We\n won't leave until your bot is running smoothly. We also\n provide support for any other technical issues you\n might have. You're in good hands with us!</p>
+                              <h3 class="title">ABOUT</h3>
+                              <p class="text">DECODEBUGS™
+                              BLAME DOSEN'T FIX BUGS. SO, LET'S DECODE THOSE.</p>
                          </div>
                          <div class="icons-container">
                          <a href="https://github.com/TeamDeeCode" class="icon">
