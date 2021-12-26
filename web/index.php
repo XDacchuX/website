@@ -62,25 +62,7 @@
                     <div class="left">
                          <div class="about-container">
                               <h3 class="title">ABOUT DECODE</h3>
-                              <p class="text">Hello guys decode is here thanks to join my Decode group 
-
-So many people have doubt what is decode!
-
-Ans + the Decode is Channel in telegram 
-
-Decode upload many telegram bot ! Like Yuriko, INEXIA and many more
-
-Ok
-
-Soon decode
-
-Create BGMI HACK
-
-           AND 
-
-      MANY MORE
-
-Thanks to join Decode</p>
+                              <p class="text"></p>
                          </div>
                          <div class="icons-container">
                          <a href="https://github.com/TeamDeeCode" class="icon">
@@ -90,8 +72,12 @@ Thanks to join Decode</p>
                                    <i class="fab fa-telegram"></i>
                               </a>
                               <a href="                              https://youtube.com/channel/UCJEMDBgp_zYywtotOBrYJYw" class="icon">
-                                   <i class="fab fa-youtube"></i>
-                              </a>
+                                   <i class="fab fa-youtube">BLAME DOSEN'T FIX BUGS. SO, LET'S DECODE THOSE SOON CREATE BGMI HACK ANY MANY MORE AND TUTORIAL
+┏━━━━━━━━━❥
+┣ Cʀᴇᴀᴛᴇʀ -> @TeamDeeCoDe
+┣ Uᴘᴅᴀᴛᴇꜱ -> @DeeCoDeBots
+┣ 𝖲ᴜᴘᴘᴏʀᴛ -> @DeCoDeSupport
+┗━━━━━━━━━❥</a>
                          </div>
                          <div class="buttons-wrap">
                              
