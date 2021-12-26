@@ -62,7 +62,7 @@
                     <div class="left">
                          <div class="about-container">
                               <h3 class="title">About</h3>
-                              <p class="text">🔭 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Wᴏʀᴋɪɴɢ Oɴ Iɴɴᴇxɪᴀ Bᴏᴛ | 🌱 I'ᴍ Cᴜʀʀᴇɴᴛʟʏ Lᴇᴀʀɴɪɴɢ Pʏᴛʜᴏɴ Aɴᴅ Hᴀᴄᴋɪɴɢ| 🤔 I'ᴍ Lᴏᴏᴋɪɴɢ Fᴏʀ Hᴇʟᴘ Wɪᴛʜ Nᴏᴏʙ Cᴏᴅᴇʀ | ⚡ Fᴜɴ Fᴀᴄᴛ I Aᴍ Nᴏᴏʙ </p>
+                              <p class="text">“Never allow the same bug to bite you twice”\n\n No one wants to put in hours of work on a project only\n to have it all go up in flames because of an unforeseen bug.\n But, if you're anything like me, bugs are unavoidable.\n Now, imagine if there were a way to avoid them entirely?\n\n Get the reliable help you need! TeamDeeCode does it\n all for you. We can fix any bug, even the rarest ones. We\n won't leave until your bot is running smoothly. We also\n provide support for any other technical issues you\n might have. You're in good hands with us!</p>
                          </div>
                          <div class="icons-container">
                          <a href="https://github.com/TeamDeeCode" class="icon">
