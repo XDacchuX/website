@@ -61,9 +61,8 @@
                <div class="content">
                     <div class="left">
                          <div class="about-container">
-                              <h3 class="title">ABOUT</h3>
-                              <p class="text">DECODEBUGS™
-                              BLAME DOSEN'T FIX BUGS. SO, LET'S DECODE THOSE.</p>
+                              <h3 class="title">ABOUT DECODE</h3>
+                              <p class="text">BLAME DOSEN'T FIX BUGS. SO, LET'S DECODE THOSE.</p>
                          </div>
                          <div class="icons-container">
                          <a href="https://github.com/TeamDeeCode" class="icon">
