@@ -17,7 +17,7 @@ $ git push heroku main
 $ heroku open
 ```
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy/XDacchuX/Website)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https//github.com/XDacchuX/website)
 
 ## Documentation
 
