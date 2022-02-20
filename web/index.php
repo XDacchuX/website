@@ -10,7 +10,7 @@
           rel="stylesheet">
      <link rel="stylesheet" href="src/style.css">
      <title>DARSHAN (@XDacchuX)</title>
-     <link rel="icon" href="https://telegra.ph/file/7919f9607c1fa5779e74a.jpg" type="image/x-icon">
+     <link rel="icon" href="https://telegra.ph/file/a65d6a747bd276a57e8a8.jpg" type="ima/x-icon">
 </head>
 
 <body id="body" class="dark">
@@ -25,7 +25,7 @@
           </div>
      </div>
      <div class="modal">
-          <img src="https://telegra.ph/file/3c51ab371a8e348f0a0b2.jpg" alt="">
+          <img src="https://telegra.ph/file/b9ae9f457171fcac31d10.jpg" alt="">
           <div class="close"></div>
      </div>
 
