@@ -9,7 +9,7 @@
      <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Poppins:wght@100;200;300;400;500;600;700&display=swap"
           rel="stylesheet">
      <link rel="stylesheet" href="src/style.css">
-     <title>SAMMY (@useIes)</title>
+     <title>DARSHAN (@XDacchuX)</title>
      <link rel="icon" href="https://telegra.ph/file/7919f9607c1fa5779e74a.jpg" type="image/x-icon">
 </head>
 
@@ -34,8 +34,8 @@
           <div class="card">
                <div class="sidebar" id="sidebar">
                     <ul>
-                         <li><a class="active" href="https://telegram.dog/TeamDeeCode">TeamDeeCode</a></li>
-                         <li><a class="active" href="https://telegram.dog/DeeCodeBots/32">Projects</a></li>
+                         <li><a class="active" href="https://telegram.dog/XDacchuX">Darshan</a></li>
+                         <li><a class="active" href="https://telegram.dog/The3xpert">About Anonymous</a></li>
                     </ul>
                </div>
                <div class="header">
@@ -44,7 +44,7 @@
                               <div class="center"></div>
                          </div>
                     </label>
-                    <a href="mailto:braydanxd@gmail.com" class="mail">
+                    <a href="mailto:DacchuxY20@gmail.com" class="mail">
                          <i class="far fa-envelope"></i>
                     </a>
                     <div class="main">
@@ -53,26 +53,26 @@
                                    <i class="fas fa-camera fa-2x"></i>
                               </div>
                          </div>
-                         <h3 class="name">DeCoDe</h3>
-                         <h3 class="sub-name">@TeamDeeCoDe</h3>
+                         <h3 class="name">DARSHAN</h3>
+                         <h3 class="sub-name">@XDacchuX</h3>
                     </div>
                </div>
 
                <div class="content">
                     <div class="left">
                          <div class="about-container">
-                              <h3 class="title">ABOUT DECODE</h3>
-                              <p class="text">🔭 BLAME DOSEN'T FIX BUGS. SO, LET'S DECODE THOSE SOON CREATE BGMI HACK ANY MANY MORE AND TUTORIAL </p>
+                              <h3 class="title">ABOUT DARSHAN</h3>
+                              <p class="text">🔭 GET MORE INFORMATION ABOUT DARSHAN AND CONNECT WITH HIM </p>
                          </div>
                          <div class="icons-container">
-                         <a href="https://github.com/TeamDeeCode" class="icon">
+                         <a href="https://github.com/XDacchuX" class="icon">
                                    <i class="fab fa-github"></i>
                               </a>
-                              <a href="https://telegram.dog/deecodebots" class="icon">
+                              <a href="https://telegram.dog/XDacchuX" class="icon">
                                    <i class="fab fa-telegram"></i>
                               </a>
-                              <a href="                              https://youtube.com/channel/UCJEMDBgp_zYywtotOBrYJYw" class="icon">
-                                   <i class="fab fa-youtube"></i>
+                              <a href="                              https://instagram.com/Dacchu_xY" class="icon">
+                                   <i class="fab fa-instagram"></i>
                               </a>
                          </div>
                          <div class="buttons-wrap">
